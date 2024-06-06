@@ -1,0 +1,32 @@
+{
+  "Lower": [
+    "Leg Press",
+    "Squat",
+    "Goblet Squat",
+    "Deadlift",
+    "Lunges",
+    "Hip Thrust",
+    "Single Leg Press"
+  ],
+  "Push": [
+    "Bench Press",
+    "Dumbbell Bench Press",
+    "Inclined Press",
+    "Dumbbell Inclined Press",
+    "Military Press",
+    "Dumbbell Military Press",
+    "Single Arm Bench Press",
+    "Dips",
+    "Push-Ups"
+  ],
+  "Pull": [
+    "Single Arm Rows",
+    "Seated Row",
+    "Lat Pull Down",
+    "Pull Up",
+    "Barbell Row",
+    "Back Extension",
+    "Shoulder Swings",
+    "Lying Pullover"
+  ]
+}
